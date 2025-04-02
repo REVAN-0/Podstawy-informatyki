@@ -1,6 +1,6 @@
 
 # PYTANIE
-* 1. Server -
+* .1. Server -
  Nagłówek HTTP Server zawiera informacje o oprogramowaniu serwera, który obsługuje zapytanie. Pokazuje zazwyczaj nazwę i wersję serwera (np. gunicorn/1.19.0).
 
 * 2. Request Method: GET -
